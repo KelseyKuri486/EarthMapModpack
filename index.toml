@@ -5929,11 +5929,6 @@ hash = "54f4bb25aa9018346643aa8ace55209ebb67f7ffa0f22300c018e590fae9ffbf"
 metafile = true
 
 [[files]]
-file = "mods/nukateams-gun-lib.pw.toml"
-hash = "8b4af86dc4c1846469326cc3fe73350a98a119650be241e499c6bd575c2e2482"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
