@@ -1,0 +1,13 @@
+name = "Vista: Recipes"
+filename = "vista_recipes-neoforge-1.21.1-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a88d6149d6404b2168408539619b0761aa4206db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8388503
+project-id = 1579941

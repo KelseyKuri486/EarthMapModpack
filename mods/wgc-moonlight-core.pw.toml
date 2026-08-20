@@ -1,0 +1,13 @@
+name = "Moonlight Core"
+filename = "mlcore-neoforge-1.21.1-2.6.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6eeef249aeff52f93a7dee25f391122e2feb3df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6554672
+project-id = 1152824

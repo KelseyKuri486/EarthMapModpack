@@ -1,0 +1,8 @@
+[sync]
+
+# This is use for the range of the packets that syncs the systems of moonlight core, an example: Data attachments system
+
+# Default value: 64.0
+range = 64.0
+
+

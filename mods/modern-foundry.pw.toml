@@ -1,0 +1,13 @@
+name = "Modern Foundry"
+filename = "ModernFoundry-1.21.1-4.1.6-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df82705f50b24e88816e57a8f9b654de2b0f9f17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8675380
+project-id = 1651634

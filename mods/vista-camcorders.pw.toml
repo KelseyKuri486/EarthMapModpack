@@ -1,0 +1,13 @@
+name = "Vista Camcorders"
+filename = "vista-camcorders-neoforge-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q3QxEDEp/versions/VEeUWwdm/vista-camcorders-neoforge-0.1.4.jar"
+hash-format = "sha512"
+hash = "321a51664ac161092a5b4d3923a8e90a930012ba25416a36d4c9aa84c8b93b0d564bb8e4242f72fb58bf7fad9a9b46e695b848f862b35a74a27a55fd115c9fa9"
+
+[update]
+[update.modrinth]
+mod-id = "Q3QxEDEp"
+version = "VEeUWwdm"
