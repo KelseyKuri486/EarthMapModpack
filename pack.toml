@@ -1,12 +1,12 @@
 name = "Earthmodded"
-author = "kelseykuri486"
+author = "KelseyKuri486"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5d7befdc4aa3478bc038045eb1537dc50514671a202b47c44656a10e6dd574ae"
+hash = "d49a0d39d9710b8bd9a58bbf4cfd9587aeb0b21f2e419147c378012d1c1c65f2"
 
 [versions]
 minecraft = "1.21.1"
