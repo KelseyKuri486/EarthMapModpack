@@ -5457,6 +5457,14 @@ file = "icon.png"
 hash = "1624ec729b691982959d90092712131f11bce13a137ee94cfc393c1b984466a0"
 
 [[files]]
+file = "mods/Hilt-1.21.1-1.13(1).jar"
+hash = "04cb9191499333eabd4f40ace653310b6773d6357b584d6cbbf58e204c45e7f2"
+
+[[files]]
+file = "mods/ModernFoundry-1.21.1-4.1.6-NeoForge.jar"
+hash = "0b0026db1c27a1d08b1e3d3eba8fd2cc470d4cb534eb08d74633adc5be5691f1"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -5517,6 +5525,11 @@ hash = "5cc5c66542da3dc20d3f0bf20da7fcc364ed7d2cb3d281210c2c359f2404f21f"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "38dbb44c2a708ece689e5d371a7083aaa4f40392b37082ea039f799965314963"
 metafile = true
@@ -5558,7 +5571,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
 metafile = true
 
 [[files]]
@@ -5588,7 +5601,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -5602,8 +5615,8 @@ hash = "6765cbdd57396dacf7ba925f8939496a2c67a8c9695a40a6099f8b7bdb65beb6"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "21c83a2a79ec084cf15634b178ad86c078e21a08ac1183d4ae2c09200a06e031"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -5852,11 +5865,6 @@ hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
-file = "mods/hilt.pw.toml"
-hash = "f525a4e19503ba6a4bd8656e241242951e9a7e94700853ea4c3f387d6ab051e8"
-metafile = true
-
-[[files]]
 file = "mods/immersive-energistics.pw.toml"
 hash = "a33f2573a8443e7d3350cb38597736f8064e8e718d43660c6c515d4cf4a095db"
 metafile = true
@@ -5922,18 +5930,13 @@ hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
-file = "mods/modern-foundry.pw.toml"
-hash = "511348507ec39390039ea6b263940d796ec9ed74f3e90d267762fd27ab3250a0"
-metafile = true
-
-[[files]]
 file = "mods/more-delight-forge.pw.toml"
 hash = "983f834edf2911324a9db31af66c139c10b49e20a5ca11ed3517169d92a4d9ec"
 metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
-hash = "9e39be3df26ced3bdf643753f1cb4c2053810ea385608e5b6f5edbd9825347e2"
+hash = "0d46e9913b8cf5ab71bb68d2f402432a4360c7b44d6e0b9c093c2a4a8f5f80f8"
 metafile = true
 
 [[files]]
@@ -6129,11 +6132,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
-metafile = true
-
-[[files]]
-file = "mods/unofficial-cc-tweaked-v-1-120-1-cf.pw.toml"
-hash = "25612301bd197a97b683dc935cfd0928edd246e423f83949a18c598946fd265f"
 metafile = true
 
 [[files]]
