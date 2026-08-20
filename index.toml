@@ -5524,11 +5524,6 @@ hash = "961ddb497832118c0eb389c7d668f5fb881461776e62b9c7af82afdb3b2fed9b"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "1e35822d7c167184d78651887d9823feca7a128688daedfdb93f0a33a3e2c1cf"
-metafile = true
-
-[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "6266716a1098ed2a27b392ebcd45a5cc163733045ed86308b8eecb5978093674"
 metafile = true
