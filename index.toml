@@ -5979,11 +5979,6 @@ hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
-file = "mods/ponder.pw.toml"
-hash = "5ead8d8bc26cdbe1a17dc055f7f0fe762a08254d0199d6ea8fcc58839ab274f2"
-metafile = true
-
-[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "94f92fecc2a48a76f3fa40672343d676e4b2aac2a905949b4decb7f5aaa37aea"
 metafile = true
