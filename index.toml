@@ -4653,10 +4653,6 @@ file = "config/ftblibrary-client.snbt"
 hash = "a9fcae14a98b4009d0a4f020bcdc6693953496293ac213683496f27a001a623f"
 
 [[files]]
-file = "config/ftbquests-client.snbt"
-hash = "1aad536e4bf4ac32fd3f994e43af2792e5347ac37e40d1f8430dde45c9468f5c"
-
-[[files]]
 file = "config/ftbteams-server.snbt"
 hash = "0cb54f6b7568ca7fff6b6a1320eb4ef455941c83a932f5dd8c6ad1c5741e0458"
 
