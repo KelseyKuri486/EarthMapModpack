@@ -1,15 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
-file = "EarthMapModpack/icon.png"
+file = "icon.png"
 hash = "1624ec729b691982959d90092712131f11bce13a137ee94cfc393c1b984466a0"
 
 [[files]]
-file = "EarthMapModpack/index.toml"
+file = "index.toml"
 hash = "283fd91c7c11da9559ef86686b016e589a951d9b9027c374bdf70032f9ce2492"
 
 [[files]]
-file = "EarthMapModpack/pack.toml"
+file = "pack.toml"
 hash = "f214d511bdc5918b77a971321312ba7bcc1903f8eafc6623c013b165cb408faa"
 
 [[files]]
