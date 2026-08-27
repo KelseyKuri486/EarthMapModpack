@@ -6099,6 +6099,11 @@ hash = "43177938c13d61cb0796b59dd8d7f3bf521532bb9394ca0867aec89c45d003de"
 metafile = true
 
 [[files]]
+file = "mods/tfmg-community-edition.pw.toml"
+hash = "e0bf2a73a55e1ae63171ece74ae521f9a9827f12f43bd69e8b67f29bd3a20521"
+metafile = true
+
+[[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "f615375185613c362892ab32d5359e9da1552345e92993feecb48853fa876711"
 metafile = true
