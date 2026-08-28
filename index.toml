@@ -5974,6 +5974,10 @@ hash = "d8a997c508417eff07068e7ee5e5e501a6ae6e44fb4592829d077fe4a3b73ec3"
 metafile = true
 
 [[files]]
+file = "mods/powerchip-2.0.6.jar"
+hash = "802068fae1cf7d494d97166cc35dae1303df2e85387c47c59fe59aeb954c7d1f"
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "5117690c5af416704847834d5797e493206c30ba5e963a3e08123717834b29f3"
 metafile = true
@@ -6094,8 +6098,8 @@ hash = "43177938c13d61cb0796b59dd8d7f3bf521532bb9394ca0867aec89c45d003de"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-1.21.1-1.2.4b-community.jar"
-hash = "01a20a35db0106affcd2aaa318728e1bd1ccedf539788bddc0be7387c10f741a"
+file = "mods/tfmg-1.21.1-1.2.3a-community.jar"
+hash = "fe6df3ab8a8dc8fb0e7957f82d0e4d55093d8b1a99e39cb7a135e8ba7ff6b45c"
 
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
