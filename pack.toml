@@ -1,5 +1,4 @@
 name = "Earthmodded"
-author = "kelseykuri486"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
@@ -10,4 +9,4 @@ hash = "228129b4b3803b72b96f17851eeebda87c0307de8265a956d6e06ec568f89367"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.248"
+neoforge = "21.1.249"
