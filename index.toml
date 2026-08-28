@@ -5609,11 +5609,6 @@ hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
 metafile = true
@@ -6004,9 +5999,8 @@ hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
-file = "mods/ricks-stuff.pw.toml"
-hash = "e23b0e970fbf4c0dd028955b6de9b72841a753a708f1a3a3fe85c9185df8e623"
-metafile = true
+file = "mods/ricks_stuff-0.0.3.2.jar"
+hash = "1ac21b2ebba60fe08e5244163e8f354eeac2db4e6bd9aa8f187a4640cbad700f"
 
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
@@ -6172,3 +6166,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
 metafile = true
+
+[[files]]
+file = "update.sh"
+hash = "c5e0cb21f9f00865cef2f1534d8340411ad4e5c8408817e158b20a8cd00e5d0c"
