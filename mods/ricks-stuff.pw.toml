@@ -1,0 +1,13 @@
+name = "Rick's Stuff"
+filename = "ricks_stuff-0.0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d15fed2549ddd30a881640ab11f15d1c2ce35959"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8748019
+project-id = 1662440
