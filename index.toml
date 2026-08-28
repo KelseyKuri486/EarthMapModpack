@@ -5624,11 +5624,6 @@ hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
 metafile = true
 
 [[files]]
-file = "mods/create-power-chip.pw.toml"
-hash = "0a031fa23065bb152bf26c4266417841f5fe77b6ad5e251f34747a9f728d728a"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
