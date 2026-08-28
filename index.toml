@@ -5609,11 +5609,6 @@ hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
 metafile = true
@@ -6104,9 +6099,8 @@ hash = "43177938c13d61cb0796b59dd8d7f3bf521532bb9394ca0867aec89c45d003de"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-community-edition.pw.toml"
-hash = "e0bf2a73a55e1ae63171ece74ae521f9a9827f12f43bd69e8b67f29bd3a20521"
-metafile = true
+file = "mods/tfmg-1.21.1-1.2.4b-community.jar"
+hash = "01a20a35db0106affcd2aaa318728e1bd1ccedf539788bddc0be7387c10f741a"
 
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
