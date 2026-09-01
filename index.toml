@@ -5604,6 +5604,11 @@ hash = "1c05c2dc8f4d23b1d61aab3b40a55bc93541ac9232379dfc12bb1cf77d609f1b"
 metafile = true
 
 [[files]]
+file = "mods/create-estrogen.pw.toml"
+hash = "2e6b4b91ba3df20af4e4ff370a1ee2cd97211b066cd09c2c9f801ec96d592b63"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
@@ -5645,7 +5650,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/cynosure.pw.toml"
+hash = "50bb1e11d03ffd1492fcda9bd6be84707119a3eed3a9760d99c739b97224015a"
 metafile = true
 
 [[files]]
@@ -5711,6 +5721,11 @@ metafile = true
 [[files]]
 file = "mods/engineered-schematics.pw.toml"
 hash = "a4a1e440890871a19bbb34ec41422ac6dfea15c2e890bfad90bdbea1bb508a39"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "28c381aeb9351eb9aa02dea41837453651e3eac40e5774bdc9127bdc9cd857aa"
 metafile = true
 
 [[files]]
