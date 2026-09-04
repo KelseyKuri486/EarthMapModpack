@@ -5979,11 +5979,6 @@ hash = "33a66528f69f12b890fbefeb3bb1459b76bf4f6e9d6c1ca30772177b1eb05282"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
-metafile = true
-
-[[files]]
 file = "mods/polymorph_plus.pw.toml"
 hash = "4b3012b5d80b0befdd4dbd9d3504fe1ea7516b76b2b7344c7f68cc7a7befcc17"
 metafile = true
@@ -6188,4 +6183,4 @@ metafile = true
 
 [[files]]
 file = "update.sh"
-hash = "c5e0cb21f9f00865cef2f1534d8340411ad4e5c8408817e158b20a8cd00e5d0c"
+hash = "2b295ed6d0c0c859556c884155ee633b5dece1b6c89b3952d7670e797d53a61d"
