@@ -5509,11 +5509,6 @@ hash = "5cc5c66542da3dc20d3f0bf20da7fcc364ed7d2cb3d281210c2c359f2404f21f"
 metafile = true
 
 [[files]]
-file = "mods/bmnw.pw.toml"
-hash = "7095094ec061f873f6e9c6d105737a79d7dc2b26cf91add48e4270eff71186be"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
