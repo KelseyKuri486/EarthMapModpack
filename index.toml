@@ -5949,9 +5949,8 @@ hash = "54f4bb25aa9018346643aa8ace55209ebb67f7ffa0f22300c018e590fae9ffbf"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers-rebooted.pw.toml"
-hash = "f22d683e8776a181a2deef56cbd05679c47d8564fefed35d1e5d537b142d431b"
-metafile = true
+file = "mods/opencomputers-1.9.4-dev.16.jar"
+hash = "9a88d65fe70e538e561ade02a6d90c56cb8fbc27143f06658c62706c5338792a"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -6033,18 +6032,13 @@ hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
-file = "mods/ricks-portal-gun.pw.toml"
-hash = "728888ae05c97033368acb51f321168b126b98a7d0b60352af0de00023edc6b9"
-metafile = true
-
-[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
 
 [[files]]
