@@ -5489,6 +5489,11 @@ hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
 
 [[files]]
+file = "mods/ballistix.pw.toml"
+hash = "35b5fe642072bd402f088a1fb7a0d4db7a379e398f64a11dbba5d820ab436f68"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "381f38bf917d9b1030ba3b28b7abfb55fe1ecc17cb93ef34f83b4246bb17c9a5"
 metafile = true
@@ -6163,6 +6168,11 @@ metafile = true
 [[files]]
 file = "mods/vista.pw.toml"
 hash = "2b014c52244132a8ab4e74cc681389fb4c2b3d6f2b33b982808375277fd44530"
+metafile = true
+
+[[files]]
+file = "mods/voltaic-api.pw.toml"
+hash = "0370b72a5c14c7f3e7cf1b54837fd57adec00ee8ec4b3268c3fe496cbd74732d"
 metafile = true
 
 [[files]]
