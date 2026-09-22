@@ -5884,6 +5884,11 @@ hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "66dce0f38721829843216d80cbc8e7a95098be6e405b5bfea386becb20cd98d1"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
@@ -5936,6 +5941,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
 hash = "0d46e9913b8cf5ab71bb68d2f402432a4360c7b44d6e0b9c093c2a4a8f5f80f8"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "21b3ef0c7e42f351c186d57ccda793abd191a5d7c2e90b1a158647e1e8a62c84"
 metafile = true
 
 [[files]]
