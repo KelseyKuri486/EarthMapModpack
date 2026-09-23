@@ -5574,6 +5574,11 @@ hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
 metafile = true
 
 [[files]]
+file = "mods/create-big-pharma.pw.toml"
+hash = "a2186c18fe2191d30f10ab756d696f727756debaeba7901a47c61651e45aeb2f"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad.pw.toml"
 hash = "9bf2d4dfd53bc097d97c50fa08fef3ea827cfab6e17d0503f1165b3b27fe8a64"
 metafile = true
