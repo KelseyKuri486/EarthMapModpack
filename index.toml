@@ -5974,8 +5974,9 @@ hash = "54f4bb25aa9018346643aa8ace55209ebb67f7ffa0f22300c018e590fae9ffbf"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers-1.9.4-dev.16.jar"
-hash = "9a88d65fe70e538e561ade02a6d90c56cb8fbc27143f06658c62706c5338792a"
+file = "mods/opencomputers-rebooted.pw.toml"
+hash = "0d9c0576ebf23fe5cbc2382cb04bb930df3320f5b67e969b9e503f55052bc759"
+metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
