@@ -5441,8 +5441,8 @@ file = "icon.png"
 hash = "1624ec729b691982959d90092712131f11bce13a137ee94cfc393c1b984466a0"
 
 [[files]]
-file = "mods/Hilt-1.21.1-1.13(1).jar"
-hash = "04cb9191499333eabd4f40ace653310b6773d6357b584d6cbbf58e204c45e7f2"
+file = "mods/Hilt-1.21.1-1.14.jar"
+hash = "9250b06f442885807c14b1173350a6eb5984c6279748a2d343b44dd229e84e36"
 
 [[files]]
 file = "mods/ModernFoundry-1.21.1-4.1.6-NeoForge.jar"
@@ -5690,7 +5690,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "e66a87fe6e8d2fb2b8118659b654704bcff1de6449017cb637984816a8412139"
+hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
 metafile = true
 
 [[files]]
@@ -6218,12 +6218,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
+hash = "70e12b988f0efd4df56597d3f37fe37608584b876ff3e713e4f5d966a37a4a25"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
+hash = "62eaf7c193d20dbec89944f6e1401ce64a80d8d704830a988d24c1498d8316e2"
 metafile = true
 
 [[files]]
