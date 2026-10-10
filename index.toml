@@ -5974,8 +5974,8 @@ hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers-rebooted.pw.toml"
-hash = "0d9c0576ebf23fe5cbc2382cb04bb930df3320f5b67e969b9e503f55052bc759"
+file = "mods/opencomputers-ii-modern.pw.toml"
+hash = "24e9d7f373278e287f670466efedcf0988e75b4faf1daa2ecf286491ce8fda51"
 metafile = true
 
 [[files]]
