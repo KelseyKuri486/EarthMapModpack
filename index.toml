@@ -5939,6 +5939,11 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "ba0dde9e4b56e6e3f79360e7ec80e08f0f38cfe584de373abfba6091c86ef7fb"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
