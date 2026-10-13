@@ -5989,6 +5989,11 @@ hash = "28f0a05b132129ba8061ea1697e6e03cbbe86c22183b7d368d9bc4bba73b2b89"
 metafile = true
 
 [[files]]
+file = "mods/orva-alarms.pw.toml"
+hash = "249127081723eb191808c729eeedbd4d46c3e5a1514d50afe342339e87399d19"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
