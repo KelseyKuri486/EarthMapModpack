@@ -5490,7 +5490,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "35b5fe642072bd402f088a1fb7a0d4db7a379e398f64a11dbba5d820ab436f68"
+hash = "39d7283ee08da29fb24ce31949bfff73ac63a73193b11d3ecedf949310636828"
 metafile = true
 
 [[files]]
