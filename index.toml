@@ -5519,6 +5519,11 @@ hash = "5cc5c66542da3dc20d3f0bf20da7fcc364ed7d2cb3d281210c2c359f2404f21f"
 metafile = true
 
 [[files]]
+file = "mods/blast-craft.pw.toml"
+hash = "c521b55cfba63a5af7eae87138cd0df2a72f177af75087378f0f8d111d56052b"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
@@ -6193,7 +6198,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic-api.pw.toml"
-hash = "0370b72a5c14c7f3e7cf1b54837fd57adec00ee8ec4b3268c3fe496cbd74732d"
+hash = "b615e141026861d336f4813b89871fa2fe9eacfcd6bf9a0654572ada0386144f"
 metafile = true
 
 [[files]]
