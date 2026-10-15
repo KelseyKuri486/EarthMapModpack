@@ -5715,7 +5715,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-electricity.pw.toml"
-hash = "559f13c1e0b4beee5f19a28140ad30d58541a2497cd006139554ff8831f1345d"
+hash = "916cefcf73a846ae296ba1b9658385f7272b0abdc073ef18db6e9a971252af82"
 metafile = true
 
 [[files]]
