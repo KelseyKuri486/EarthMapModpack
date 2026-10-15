@@ -1,0 +1,13 @@
+name = "Assembly Lines"
+filename = "assemblyline-1.21.1-0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "362ecc400534f83dc518a9475cd6e5cafdc9cf29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9151228
+project-id = 404360

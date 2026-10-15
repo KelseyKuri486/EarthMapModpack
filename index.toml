@@ -5479,6 +5479,11 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "73a396e46df18f1b424069c13cbff68384b361434da1e57abf21534c0a50057c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
 metafile = true
@@ -5706,6 +5711,16 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "9d0682ec9191f72e81a4b84ffdc75a4d219e17a8a3d0151e0cf6633e34c786fd"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-electricity.pw.toml"
+hash = "559f13c1e0b4beee5f19a28140ad30d58541a2497cd006139554ff8831f1345d"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "ceda870747be0fbfddba03c63f0f2fd1e70b8da912fc49655ba8f8d051b08ac0"
 metafile = true
 
 [[files]]
@@ -5981,6 +5996,11 @@ metafile = true
 [[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "5115998d0a46dbd8ed701594be5e96de5a22d4fe9d1af35f9c6e74bd92ea78c7"
 metafile = true
 
 [[files]]
