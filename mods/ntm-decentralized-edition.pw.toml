@@ -1,0 +1,13 @@
+name = "NTM: Decentralized Edition"
+filename = "ntm-decentralized-neoforge-1.21.1-1.0.0-beta.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e2cd7c5cde297d75e32fdbdfc5468c026315e1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9215658
+project-id = 1719854

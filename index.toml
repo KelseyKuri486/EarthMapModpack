@@ -5984,6 +5984,11 @@ hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
 metafile = true
 
 [[files]]
+file = "mods/ntm-decentralized-edition.pw.toml"
+hash = "9df489ff4387440f612b5dd434f34289afab489cff5cde0bbd38542fcdd6fbac"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers-ii.pw.toml"
 hash = "28f0a05b132129ba8061ea1697e6e03cbbe86c22183b7d368d9bc4bba73b2b89"
 metafile = true
