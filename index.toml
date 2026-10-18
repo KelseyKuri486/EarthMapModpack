@@ -5744,16 +5744,6 @@ hash = "08b5fe6bbf5980820af8addc37e5ee41e48756400d86f9f554222f27b3ccecb5"
 metafile = true
 
 [[files]]
-file = "mods/engineered-compatibility.pw.toml"
-hash = "f85744a1e21ba80e4a9bb906ff4f3165e6d19475e8d9ca2427b30afedb933cec"
-metafile = true
-
-[[files]]
-file = "mods/engineered-schematics.pw.toml"
-hash = "a4a1e440890871a19bbb34ec41422ac6dfea15c2e890bfad90bdbea1bb508a39"
-metafile = true
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "28c381aeb9351eb9aa02dea41837453651e3eac40e5774bdc9127bdc9cd857aa"
 metafile = true
