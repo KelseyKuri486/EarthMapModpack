@@ -4693,20 +4693,8 @@ file = "config/hilt-server.toml"
 hash = "d1d3b8498f0b7e9fdc3a507636b351ff20271dcb5724dabeec55ad81dc068c22"
 
 [[files]]
-file = "config/immersiveengineering-client.toml"
-hash = "912425e0f8128c386af08b3ffe7caf82b3a01eac44b617e466295d5078696827"
-
-[[files]]
 file = "config/immersiveengineering-server.toml"
 hash = "224890fd3a08bcfd70ad4ffcd277b13843610006658ddf7e26b5b864f2663e53"
-
-[[files]]
-file = "config/immersiveengineering-startup.toml"
-hash = "776cf15a4474e30ac7bdf944f44d0dca25851efad95b8d8055f3d3de29aad705"
-
-[[files]]
-file = "config/immersivepetroleum-client.toml"
-hash = "7edff578c52fce7ba6872ac3b676a29fd965e99357dfb593c17fb7ea8778d6f8"
 
 [[files]]
 file = "config/immersivepetroleum-server.toml"
@@ -5694,8 +5682,8 @@ hash = "53db992bf801e7788e72d611281252f73b53c1161c8958137f8a1b912bb3f615"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
+file = "mods/distanthorizons.pw.toml"
+hash = "440f55fe8facedc29f68b2cb8dd94b84cd598a93428a2d1fa0d88ce26d76e707"
 metafile = true
 
 [[files]]
