@@ -5867,11 +5867,6 @@ hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
-file = "mods/immersive-flight-simulator-ifs-immersive-vehicles.pw.toml"
-hash = "db843184a43afe8d77ce057b698eb4432f744c7c5446edda80d883775db5fa7a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-vehicles-blocky-rage.pw.toml"
 hash = "2824dc467b0b0931119e45ab2c617e4c5335b4f7bdd07856912c1fe724d7fc93"
 metafile = true
