@@ -5562,6 +5562,11 @@ hash = "28f2a6058eea2927b1b7676d90b2d318e1ee9353bb5a46d9b0fb3e874be48e3d"
 metafile = true
 
 [[files]]
+file = "mods/create-automotives.pw.toml"
+hash = "9b7fe1a9dfed7d06966ae72343184d605ee36f6c2b5e60a589aff2a2df63b830"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
 metafile = true
@@ -5852,8 +5857,33 @@ hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
+file = "mods/gt-craft-iv-mts.pw.toml"
+hash = "1f5b1aee94c442eb943d0db48a33f80ac2bc695fa94c36f6e58bb5239f5ccc03"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
+metafile = true
+
+[[files]]
+file = "mods/immersive-flight-simulator-ifs-immersive-vehicles.pw.toml"
+hash = "db843184a43afe8d77ce057b698eb4432f744c7c5446edda80d883775db5fa7a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-blocky-rage.pw.toml"
+hash = "2824dc467b0b0931119e45ab2c617e4c5335b4f7bdd07856912c1fe724d7fc93"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-craftspeed.pw.toml"
+hash = "189351ce185e8aa53da242e25ac22e95518a6c6ec20fc1f059f0a7c11f8c7dfe"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-official-content-pack.pw.toml"
+hash = "3dd8cb8ebd8db5946da9bb635ab1e427000435fcf712f1385214e88d9ebd9ae1"
 metafile = true
 
 [[files]]
@@ -5917,6 +5947,11 @@ hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "6bce72fcb1335577357919f9eab8f610b70af65a3571a625c37a02ee42141c56"
+metafile = true
+
+[[files]]
 file = "mods/more-delight-forge.pw.toml"
 hash = "983f834edf2911324a9db31af66c139c10b49e20a5ca11ed3517169d92a4d9ec"
 metafile = true
@@ -5924,6 +5959,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
 hash = "0d46e9913b8cf5ab71bb68d2f402432a4360c7b44d6e0b9c093c2a4a8f5f80f8"
+metafile = true
+
+[[files]]
+file = "mods/mts-iv-official-automobile-pack.pw.toml"
+hash = "e5a079db01eb9602b9b5b3362dfa25edc5e4bdc60d8b5176895b5ed57b8e831e"
 metafile = true
 
 [[files]]
@@ -6066,6 +6106,11 @@ hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
 metafile = true
 
 [[files]]
+file = "mods/sign-pack.pw.toml"
+hash = "da939ded88459ef3c5bbd3e601968a7f3dcf4d36d3d2ab6a9dde1a9fbc6c223d"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
@@ -6142,6 +6187,11 @@ hash = "e9e84f7507b0b482d176c7f04eb924ed1396637f480d596a8b2d266fa51640d0"
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "f615375185613c362892ab32d5359e9da1552345e92993feecb48853fa876711"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "e1dea83477cdedb5de2012ed81e30962a8c21abbff45f57a3d2e5efb606b5245"
 metafile = true
 
 [[files]]

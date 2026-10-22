@@ -1,0 +1,13 @@
+name = "Sign Pack"
+filename = "signPack-1.21.1-V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "853d36f1d5447753a4e1a8e927d7226fd7a72e29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8411894
+project-id = 1600527
