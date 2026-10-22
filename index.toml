@@ -5429,16 +5429,8 @@ file = "icon.png"
 hash = "1624ec729b691982959d90092712131f11bce13a137ee94cfc393c1b984466a0"
 
 [[files]]
-file = "mods/Craftspeed 1.7.5 (1.16+).jar"
-hash = "4394d19552885be93e9d82c1cb3400d3c01ae020c087bace1d443060c3176613"
-
-[[files]]
 file = "mods/Hilt-1.21.1-1.14.jar"
 hash = "9250b06f442885807c14b1173350a6eb5984c6279748a2d343b44dd229e84e36"
-
-[[files]]
-file = "mods/Immersive-Flight-Simulator 2.1.2 21.jar"
-hash = "d4d7817b30c7b0c874f6a2142f6e42ed3ab9d14b89cc51bcafa26b3bb14021fa"
 
 [[files]]
 file = "mods/ModernFoundry-1.21.1-4.1.6-NeoForge.jar"
@@ -5875,8 +5867,18 @@ hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
+file = "mods/immersive-flight-simulator-ifs-immersive-vehicles.pw.toml"
+hash = "db843184a43afe8d77ce057b698eb4432f744c7c5446edda80d883775db5fa7a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-vehicles-blocky-rage.pw.toml"
 hash = "2824dc467b0b0931119e45ab2c617e4c5335b4f7bdd07856912c1fe724d7fc93"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-craftspeed.pw.toml"
+hash = "189351ce185e8aa53da242e25ac22e95518a6c6ec20fc1f059f0a7c11f8c7dfe"
 metafile = true
 
 [[files]]
