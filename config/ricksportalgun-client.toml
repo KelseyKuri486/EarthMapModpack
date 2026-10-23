@@ -1,3 +1,0 @@
-["Rick's Portal Gun client config"]
-	#Disable showing portal color tint on portal guns
-	disable_portal_gun_color_tint = false
