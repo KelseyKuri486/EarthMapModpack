@@ -5602,11 +5602,6 @@ hash = "96b3a6fcba1cbf8d976211fb2d13f934e0586ed6b80f0f4bed1a4b4ffe9a2a70"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
 metafile = true
@@ -5614,11 +5609,6 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "6765cbdd57396dacf7ba925f8939496a2c67a8c9695a40a6099f8b7bdb65beb6"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -5689,16 +5679,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "440f55fe8facedc29f68b2cb8dd94b84cd598a93428a2d1fa0d88ce26d76e707"
-metafile = true
-
-[[files]]
-file = "mods/drippy-early-loading-module.pw.toml"
-hash = "66b6bf2d893aa38e6489027fc97de644283349b13b1263fecc7c8af5e0b5236f"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "9d0682ec9191f72e81a4b84ffdc75a4d219e17a8a3d0151e0cf6633e34c786fd"
 metafile = true
 
 [[files]]
@@ -5777,18 +5757,8 @@ hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "18dee4357a741a909904d20d5a9952fba48ab2713a9e18c764d1fbb440216b12"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
-metafile = true
-
-[[files]]
-file = "mods/farmers-knives.pw.toml"
-hash = "241539b76e9be337e03741a87510b8041a7b137ee49d680d52ab78cb27b7696c"
 metafile = true
 
 [[files]]
@@ -5857,11 +5827,6 @@ hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
-file = "mods/gt-craft-iv-mts.pw.toml"
-hash = "1f5b1aee94c442eb943d0db48a33f80ac2bc695fa94c36f6e58bb5239f5ccc03"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
@@ -5907,23 +5872,8 @@ hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "de4007e4d9e63f4470c442bc9b568c2c5b6d93970ac881068cccde432ca0058c"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "5b6e513d543f82ffd9f01ef217e3abb7b55da78184bf52f07d2cc305f1ce16f7"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "da326d59e505ce18857f1b72be406a03c7b7f96e09c0953cf1fff194c7ff58cd"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
@@ -5939,11 +5889,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "6bce72fcb1335577357919f9eab8f610b70af65a3571a625c37a02ee42141c56"
-metafile = true
-
-[[files]]
-file = "mods/more-delight-forge.pw.toml"
-hash = "983f834edf2911324a9db31af66c139c10b49e20a5ca11ed3517169d92a4d9ec"
 metafile = true
 
 [[files]]
