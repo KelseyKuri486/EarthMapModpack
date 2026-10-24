@@ -73,6 +73,11 @@ hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
 
 [[files]]
+file = "mods/belroft-motor-company-iv-mts.pw.toml"
+hash = "edba0b9c65e43b19e4934f76b1099caca4beb877dd33e4a782b712b694e5171b"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "bcfb461fd78bb18b36a8550be2cb1382f163bf88b86c19a9372889a8859e5228"
 metafile = true
@@ -175,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
 metafile = true
 
 [[files]]
