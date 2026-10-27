@@ -183,11 +183,6 @@ hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -440,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
-metafile = true
-
-[[files]]
-file = "mods/ntm-decentralized-edition.pw.toml"
-hash = "9df489ff4387440f612b5dd434f34289afab489cff5cde0bbd38542fcdd6fbac"
 metafile = true
 
 [[files]]
