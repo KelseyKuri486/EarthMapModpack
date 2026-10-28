@@ -507,6 +507,11 @@ hash = "a5baf69c2cb3f12339e20cd52b30a5d1eb46c620f65662f8452ac0e8d0bc113a"
 metafile = true
 
 [[files]]
+file = "mods/recurrent-complex-volts.pw.toml"
+hash = "6ebee6ca0e9f67ce5b24b2ad606d6faa6a0aaeb36c983563539c5ca6b7118772"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
 metafile = true
