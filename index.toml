@@ -626,6 +626,11 @@ hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
 metafile = true
 
 [[files]]
+file = "mods/veil.pw.toml"
+hash = "475a240821a858455d59d6e703a209a18bc24d692b4a2716dc42b46c558ffc83"
+metafile = true
+
+[[files]]
 file = "mods/vista-all-the-cassettes.pw.toml"
 hash = "9415999a879e4ccb5f743720b734265d9a2a956a79ecb979d144983b5c378e71"
 metafile = true
