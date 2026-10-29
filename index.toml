@@ -502,6 +502,11 @@ file = "mods/powerchip-2.1.2.jar"
 hash = "46c2dc85e2b57e6a570029c4ef2e7d1de56b4da01d1c86750dfa907641534a99"
 
 [[files]]
+file = "mods/pwic.pw.toml"
+hash = "39996fc33c6ede9ff160ad64044f13ec08534b4124a4c974894aeaea1d8c0b08"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "5117690c5af416704847834d5797e493206c30ba5e963a3e08123717834b29f3"
 metafile = true
