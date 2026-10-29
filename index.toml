@@ -13,10 +13,6 @@ file = "mods/ModernFoundry-1.21.1-4.1.6-NeoForge.jar"
 hash = "0b0026db1c27a1d08b1e3d3eba8fd2cc470d4cb534eb08d74633adc5be5691f1"
 
 [[files]]
-file = "mods/PWIC-V0.3TD_21_fix.jar"
-hash = "9afd5fa4ae9f115421bea3e4d6e96385322eb6befaa93b8486571d75625ef5d3"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
