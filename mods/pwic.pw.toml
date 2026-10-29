@@ -1,0 +1,13 @@
+name = "[IV/MTS] P:WIC [Project: World in Conflict]"
+filename = "PWIC-V0.3TD_21_fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92f80c5ba4c906ecd609c8071100c8ce87a34559"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8556280
+project-id = 1262150
