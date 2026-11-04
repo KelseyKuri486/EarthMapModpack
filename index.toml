@@ -636,6 +636,11 @@ hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
 metafile = true
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+hash = "c5ffa15c3da3e37775fa3d196f7854bddf4a16413fddb4912eef89c06ad21e17"
+metafile = true
+
+[[files]]
 file = "mods/veil.pw.toml"
 hash = "475a240821a858455d59d6e703a209a18bc24d692b4a2716dc42b46c558ffc83"
 metafile = true
