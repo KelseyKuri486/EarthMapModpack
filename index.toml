@@ -488,6 +488,11 @@ hash = "3ae3a6cc790e45759aa9ed9713b96741bc6ca9a4426453c745459d1074a19a89"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark-library-forked.pw.toml"
+hash = "9af1f24faf3477ddb786a4aceb13768657ad7f3d35c7ea8f812239dc9e665474"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true

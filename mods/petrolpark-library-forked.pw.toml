@@ -1,0 +1,13 @@
+name = "Petrolpark Library Forked Unofficial"
+filename = "petrolpark-1.21.1-1.5.11-eligibbs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62ced2c728d157ef61ede09c1750e4e4e5ab04dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9163760
+project-id = 1743274
