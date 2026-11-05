@@ -1,0 +1,13 @@
+name = "Destroy Forked Unofficial: A Create Addon"
+filename = "destroy-1.21.1-0.4.6-eligibbs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cabc7a309db8e7cd9789d0cb29fbb21b9f8aeabd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9299626
+project-id = 1743288

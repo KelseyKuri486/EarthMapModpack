@@ -223,6 +223,11 @@ hash = "53db992bf801e7788e72d611281252f73b53c1161c8958137f8a1b912bb3f615"
 metafile = true
 
 [[files]]
+file = "mods/destroy-forked.pw.toml"
+hash = "cec8511859b7d9c1c247ab3c0da12570463671d7f1463b610183641b33826304"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "440f55fe8facedc29f68b2cb8dd94b84cd598a93428a2d1fa0d88ce26d76e707"
 metafile = true
