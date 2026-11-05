@@ -453,11 +453,6 @@ hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers-ii.pw.toml"
-hash = "28f0a05b132129ba8061ea1697e6e03cbbe86c22183b7d368d9bc4bba73b2b89"
-metafile = true
-
-[[files]]
 file = "mods/orva-alarms.pw.toml"
 hash = "249127081723eb191808c729eeedbd4d46c3e5a1514d50afe342339e87399d19"
 metafile = true
