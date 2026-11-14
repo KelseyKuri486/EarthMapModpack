@@ -444,6 +444,11 @@ hash = "600cb587148cd482a82ab297b14e90313483c617587c9cbbd04b435a2c28e858"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "dc7e58c97d56d9764f578eb0afe6464e47701e7d72b5bd6a3d37e868bc0924bc"
+metafile = true
+
+[[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "eedfa782fdcca8fafce9c387edc33f2323c887da852dc398e9eea6f74e864086"
 metafile = true
