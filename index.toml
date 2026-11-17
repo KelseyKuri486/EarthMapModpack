@@ -289,14 +289,13 @@ hash = "b4b08d948a7cb2725e0703b54d2534a432a8d4a6dc97b4f49d04c164c6bc7515"
 metafile = true
 
 [[files]]
-file = "mods/extra-armor-slot.pw.toml"
-hash = "f8b6514faa53bf12d9b54873d386ea7d24a271ccbf1e0ed68ea353e669413370"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
+
+[[files]]
+file = "mods/extraarmor-1.4.0.jar"
+hash = "ad717363dcbacb3bb0082de808c84615be9fd317d61634fadc5b26ce3eb46579"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
