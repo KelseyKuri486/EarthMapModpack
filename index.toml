@@ -557,9 +557,8 @@ hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
-file = "mods/ricks-stuff.pw.toml"
-hash = "ede1f2ac7230dd9f2b41283b0bd7e170e75d6dbb8203b7be20938318997834dc"
-metafile = true
+file = "mods/ricks_stuff-0.0.4.3(5).jar"
+hash = "5879a93f0940abdf4b0a9a8a2c0222718e57153ec47b380ee0ba14a41eee20d1"
 
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
