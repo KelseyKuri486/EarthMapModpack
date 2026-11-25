@@ -378,11 +378,6 @@ hash = "3dd8cb8ebd8db5946da9bb635ab1e427000435fcf712f1385214e88d9ebd9ae1"
 metafile = true
 
 [[files]]
-file = "mods/infinite-dimensions.pw.toml"
-hash = "22ac3b44649ce43c40ae74f78d5d1f3263c0c8b679eda64bb2befcb820d56551"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "66dce0f38721829843216d80cbc8e7a95098be6e405b5bfea386becb20cd98d1"
 metafile = true
