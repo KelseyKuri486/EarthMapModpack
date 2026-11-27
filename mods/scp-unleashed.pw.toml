@@ -1,0 +1,13 @@
+name = "SCP Unleashed"
+filename = "scp_unleashed-0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb9e9556d2f76f324dfb9928130e832897fd5dfc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9579474
+project-id = 1738375

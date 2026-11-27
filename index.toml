@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/scp_unleashed-client.toml"
+hash = "b936fdb82e4bd32fab23c7e6606e14fb65cce7136aa621b6f2e9533a1ff2209a"
+
+[[files]]
 file = "icon.png"
 hash = "1624ec729b691982959d90092712131f11bce13a137ee94cfc393c1b984466a0"
 
@@ -573,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
 hash = "2c76665d383a0dfb64c7d236eb098dc1d43dd0ea54c86c41b90099f237f7110a"
+metafile = true
+
+[[files]]
+file = "mods/scp-unleashed.pw.toml"
+hash = "ecbdc6b630714c1a7f6cd59321878628fad13b15c6bf015c535611ffb205d64b"
 metafile = true
 
 [[files]]

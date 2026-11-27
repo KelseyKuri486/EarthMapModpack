@@ -1,0 +1,58 @@
+scp066LoudMusic = true
+# Default: 1.0
+# Range: 0.5 ~ 2.0
+noticeScale = 1.0
+# Default: 0
+# Range: 0 ~ 400
+noticeOffsetX = 0
+# Default: 0
+# Range: 0 ~ 400
+noticeOffsetY = 0
+warheadEffects = true
+postEffects = true
+skipIntroCutscene = false
+locationTitles = true
+allowVoiceRecording = true
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+realityDistortion = 1.0
+
+[interface]
+	terminalScreens = false
+	terminalMenu = false
+	terminalLoading = false
+	terminalWorlds = false
+	#Allowed Values: Green, Amber
+	terminalTheme = "Amber"
+	terminalSounds = false
+	terminalReducedMotion = false
+
+#SCP-001 The Scarlet King, on this client only.
+[scarlet]
+	showManifestationMeter = true
+	scarletSky = true
+
+#SCP-001 When Day Breaks, on this client only.
+[scp001_day]
+	#Draw the sun shafts and sunlit haze in SCP-001 When Day Breaks. Turn off if the game stutters or crashes there by day.
+	sunShafts = true
+
+#SCP-3700, on this client only.
+[scp3700]
+	#How grey the sky and fog turn after SCP-3700-B wins, from 0 (off) to 1 (fully grey).
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	greyStrength = 0.5
+
+#SCP-1471 MalO photos, on this client only.
+[scp1471]
+	#Width in pixels of the photos the SCP-1471 phone keeps on this computer.
+	# Default: 320
+	# Range: 64 ~ 1280
+	photoWidth = 320
+	#Height in pixels of the photos the SCP-1471 phone keeps on this computer.
+	# Default: 240
+	# Range: 48 ~ 960
+	photoHeight = 240
+	#Also take SCP-1471 photos while a shader pack is active. Off by default because shader packs may not allow a second view of the world.
+	photosWithShaders = false
