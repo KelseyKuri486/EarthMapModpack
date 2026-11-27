@@ -580,9 +580,8 @@ hash = "2c76665d383a0dfb64c7d236eb098dc1d43dd0ea54c86c41b90099f237f7110a"
 metafile = true
 
 [[files]]
-file = "mods/scp-unleashed.pw.toml"
-hash = "ecbdc6b630714c1a7f6cd59321878628fad13b15c6bf015c535611ffb205d64b"
-metafile = true
+file = "mods/scp_unleashed-0.0.6.jar"
+hash = "a9ff996222d1838c7192868dbfcd22d77de910925c18f9f8d6831b8f09203524"
 
 [[files]]
 file = "mods/selene.pw.toml"
